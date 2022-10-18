@@ -1,2 +1,2 @@
-# recipes
-A collection of my cooking recipes
+# Real Gourmetish
+A collection of my tasty recipes
