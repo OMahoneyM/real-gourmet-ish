@@ -3,7 +3,7 @@
 - 400g flour
 - 2g yeast
 - 10g salt
-- 300g water
+- 300g water (lukewarm)
 
 ### Instructions
 Combine flour, yeast, and salt to large bowl and mix. 
@@ -20,5 +20,7 @@ Cover with the lid and bake for 20 minutes.
 Remove the lid and then bake for another 20 mins or until the top reaches a dark golden color.
 
 #### Notes
-You can substitute 100g of water for beer to give the bread a little bit more sour flavor.
-If your yeast is old, try blooming it in the water for 5 minutes before adding both to the dry ingredients.
+- You can substitute 100g of water for beer to give the bread a little bit more sour flavor.
+- If your yeast is old, try blooming it in the water for 5 minutes before adding both to the dry ingredients.
+
+Recipe adapted from [J. Kenji Lopez-Alt](https://www.youtube.com/watch?v=uWbl3Sr2y1Y) (who adapted it from Jim Lahey)
