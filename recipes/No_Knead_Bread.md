@@ -23,3 +23,5 @@ Remove the lid and then bake for another 20 mins or until the top reaches a dark
 #### Notes
 - You can substitute 100g of water for beer to give the bread a little bit more sour flavor.
 - If your yeast is old, try blooming it in the water for 5 minutes before adding both to the dry ingredients.
+
+Recipe adapted from [J. Kenji Lopez-Alt](https://www.youtube.com/watch?v=uWbl3Sr2y1Y), who got it from Jim Lahey
