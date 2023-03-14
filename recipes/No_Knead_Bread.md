@@ -1,3 +1,4 @@
+<img src="../img/NKB_01.JPG" alt="Bread fresh out of the oven" width="400"/> <img src="../img/NKB_02.JPG" alt="crumb structure" width="400"/>
 ### Ingredients
 
 - 400g flour
@@ -22,5 +23,3 @@ Remove the lid and then bake for another 20 mins or until the top reaches a dark
 #### Notes
 - You can substitute 100g of water for beer to give the bread a little bit more sour flavor.
 - If your yeast is old, try blooming it in the water for 5 minutes before adding both to the dry ingredients.
-
-Recipe adapted from [J. Kenji Lopez-Alt](https://www.youtube.com/watch?v=uWbl3Sr2y1Y) (who adapted it from Jim Lahey)
