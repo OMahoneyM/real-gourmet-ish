@@ -1,5 +1,6 @@
 ## Quick-Pickled Red Onion
-<img src="../img/QPRO_01.JPG" alt="Red onions pickling" width="400"/>
+
+<img src="../img/QPRO_01.jpg" alt="Red onions pickling" width="400"/>
 
 ### Ingredients
 
