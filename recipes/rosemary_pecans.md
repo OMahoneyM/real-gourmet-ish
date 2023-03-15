@@ -1,5 +1,7 @@
 ## Rosemary Pecans
 
+<img src="../img/RP_01.jpeg" alt="Rosemary pecans" width="400"/>
+
 ### Ingredients
 - 4 C pecan halves (1 pound)
 - 4 tbsp unsalted butter (melted)
