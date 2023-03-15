@@ -1,6 +1,6 @@
 ## Rosemary Pecans
 
-<img src="../img/RP_01.jpeg" alt="Rosemary pecans" width="400"/>
+<img src="../img/RP_01.jpg" alt="Rosemary pecans" width="400"/>
 
 ### Ingredients
 - 4 C pecan halves (1 pound)
